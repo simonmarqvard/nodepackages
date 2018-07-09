@@ -1,0 +1,11 @@
+{
+  "name": "simon-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simon Jensen",
+  "license": "ISC"
+}
